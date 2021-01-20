@@ -1,11 +1,19 @@
 <resources>
     <string name="app_name">MyNews</string>
-    <string name="title_topic">トピック一覧</string>
-    <string name="title_followed">フォロー済み</string>
-    <string name="check_image">check_image</string>
-    <string name="close_app">もう一度押すとアプリを終了します。</string>
+    <string name="title_topic_j">トピック一覧</string>
+    <string name="title_followed_j">フォロー済み</string>
+    <string name="check_image_j">check_image</string>
+    <string name="close_app_j">もう一度押すとアプリを終了します。</string>
+    <string name="network_check_j">ネットワークとの接続が確認できず、データが取得できておりません。</string>
+    <string name="show_cache_j">既存を表示</string>
+    <string name="move_setting_j">設定に移動</string>
 
-    <string name="network_check">ネットワークとの接続が確認できず、データが取得できておりません。</string>
-    <string name="show_cache">既存を表示</string>
-    <string name="move_setting">設定に移動</string>
+    <string name="title_topic">Topic List</string>
+    <string name="title_followed">Followed List</string>
+    <string name="check_image">check_image</string>
+    <string name="close_app">Press again to exit the app</string>
+    <string name="network_check">The connection with the network cannot be confirmed and the data cannot be acquired.</string>
+    <string name="show_cache">Show existing</string>
+    <string name="move_setting">Go to settings</string>
+
 </resources>

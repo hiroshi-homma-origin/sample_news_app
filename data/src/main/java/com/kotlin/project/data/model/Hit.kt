@@ -11,5 +11,8 @@ data class Hit(
     var updateHitNumber: Int = 0
 ) {
     val followersCountToString: String
+        get() = "$followersCount Followed"
+
+    val followersCountToStringJapanese: String
         get() = "$followersCount 人にフォロー"
 }
